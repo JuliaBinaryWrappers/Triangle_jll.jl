@@ -1,0 +1,10 @@
+name = "Triangle_jll"
+uuid = "5639c1d2-226c-5e70-8d55-b3095415a16a"
+version = "1.6.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
