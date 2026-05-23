@@ -1,160 +1,160 @@
 [[Triangle]]
 arch = "aarch64"
-git-tree-sha1 = "21b06e58f56096c6bcdec245b619620b207e0243"
+git-tree-sha1 = "1f0055b1638641b4b1be0482080f084cb4a9b60f"
 os = "macos"
 
     [[Triangle.download]]
-    sha256 = "7b4f926880be20c857e016e2471bfa0b8a022b6524444e4ccaadb7c29b1e76cb"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "89cb9162d1e3d1e7a91e07ff3be37df524e0550650c9fcdd673e312fdd0fd317"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.aarch64-apple-darwin.tar.gz"
 [[Triangle]]
 arch = "aarch64"
-git-tree-sha1 = "a513e35f1dc74bbf5f92cbe4e558796fa4f11cbc"
+git-tree-sha1 = "a1b6811877ef0ea2509c784908388de777294982"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "1ea188196d4de7155dbee156d28a355208b39ccb6140dbbf55db1e2f08ff9206"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "5be2d10ee1251ae8769fceef0bf57ee0307c7cac4e143fdae6901cd76604c253"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.aarch64-linux-gnu.tar.gz"
 [[Triangle]]
 arch = "aarch64"
-git-tree-sha1 = "80770f3c770c03d1089268d240a7735bf56349b0"
+git-tree-sha1 = "5370e7a4d0a580ffd0e2c13c31aca1fe2142fe35"
 libc = "musl"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "9e5bdadeea3f43b02b2c9ffcd23dec66ccb3ce26e44affcb50bc128a3d285512"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.aarch64-linux-musl.tar.gz"
+    sha256 = "52a8013e5ca1cf745ede6a054e51b87449dd270f1d6f2bdeb0b80b1f34525168"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.aarch64-linux-musl.tar.gz"
 [[Triangle]]
 arch = "aarch64"
-git-tree-sha1 = "8af7a1e0baf8ff55aec48ffacd3c00e0db45573f"
+git-tree-sha1 = "47a878a379996146b5f2828d44bf8eb8a3176ea5"
 os = "freebsd"
 
     [[Triangle.download]]
-    sha256 = "c48e2becf8797a139a7722f84d326a4b841a654dcf0b7ce9c9f66adac14bde49"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "3ad01d9516a87e2f50f63fb3e2aa169e8ea117baeba49bde12c89f5317c2d432"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.aarch64-unknown-freebsd.tar.gz"
 [[Triangle]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c21c58bbeab3191ea7d07afab9835f5d37ce6833"
+git-tree-sha1 = "d6828a8390477f1c2d75329d491faa40772df501"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "913cf68e66d68603b1eb49249667b17ba3da9b50d8979a3a3bb8564be866553e"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "1c4a1a5c9e4f3b28ab90c0aa22aa876ea0cb8a3bf29fe19a12bf019a0cea9c20"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.armv6l-linux-gnueabihf.tar.gz"
 [[Triangle]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "feb460fc99cb13d62d45002a8eab040724156cec"
+git-tree-sha1 = "3792701f0d1f023af744ff143725116522a940c7"
 libc = "musl"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "6801a680c3c75e8669e9a405d2d57bbeb61a3470833ba977fbbb86a096160f28"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "4494942128d32a6c72a22b69ca5ad59bd09cf3bfac7069d2b99d4755d621d792"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.armv6l-linux-musleabihf.tar.gz"
 [[Triangle]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "46494707d43fc5140077645e671515b1925bfac3"
+git-tree-sha1 = "b565d0ab55aaaaa0d113ecebd6a919a68b64b4d6"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "8e830744abd71f75435c332fda82e4f38d53e3dfee78714d0093dbf5b2dbe1d3"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "9ae8b3442bbd18c0c2d62f4a4ce887b652a13b9c6e70215c7b036f3ce20aae1f"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.armv7l-linux-gnueabihf.tar.gz"
 [[Triangle]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ae457f444dd4aba74087c63530fda0909f43eb55"
+git-tree-sha1 = "6423d9eff69924372e5417c74fb2dc32cb5b0ae0"
 libc = "musl"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "7cd9752ec26b31a0d9970a741186153265b606b05ffb97e944a88d471e2941d9"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "5c64475aa3d184e1b024e6171070f77bb07c53e93bee7ba07b8d88a80d4ff3ff"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.armv7l-linux-musleabihf.tar.gz"
 [[Triangle]]
 arch = "i686"
-git-tree-sha1 = "c316c9047c07a2fcf91eaefd0245872ddf84375a"
+git-tree-sha1 = "7c90328626eaa3256bd9420dc86e23651c202feb"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "e2dbd8ee4a40f6aa9e4bf6c9543d309372282349e59627234506522c283079cb"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.i686-linux-gnu.tar.gz"
+    sha256 = "e91aeb48320bc988c5aca52c4d7f679797fb52da6257b46cf0b0b391ef7ab2d2"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.i686-linux-gnu.tar.gz"
 [[Triangle]]
 arch = "i686"
-git-tree-sha1 = "39f6f7cd9ba744a3b2f4481df7f088889831be9a"
+git-tree-sha1 = "55a7a5d8b6544cb056423c59cbd9c7f7ac078ef8"
 libc = "musl"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "0a7153729cba46e7d41a662fc1dcdf63834a288af71129460177e110bbe1f3d6"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.i686-linux-musl.tar.gz"
+    sha256 = "c9f8acfc9bb2621855dd034ea95aa3cd19876971005ff5e13b12a4a5eed5cfd5"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.i686-linux-musl.tar.gz"
 [[Triangle]]
 arch = "i686"
-git-tree-sha1 = "f0b24246a5014178d53fecbd9b769dc4fde22805"
+git-tree-sha1 = "748ac40e567c685f95fced5d1682f359a85c4941"
 os = "windows"
 
     [[Triangle.download]]
-    sha256 = "cccbba03c80135a154e9ebc23e12cd56c7176407b5802e2a1c7274ec8ae66419"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.i686-w64-mingw32.tar.gz"
+    sha256 = "bcaeba95bdfcaa99cd88a0a1818ee73eb8bd7952ef591b0ee689e76d21678710"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.i686-w64-mingw32.tar.gz"
 [[Triangle]]
 arch = "powerpc64le"
-git-tree-sha1 = "0caaf24606545163eb155c1a74ecc1d3a8d53c56"
+git-tree-sha1 = "3b0c5afb3979d86cec0bfc80016b51fdc76ed671"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "3d6a3f833994837b7ca847f522e92f3051469ca4ceb71a864fe3feedee8161d9"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "964ef607abc629094ef4785ab058630abe32b70741a69c8ba05d64061258bca0"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.powerpc64le-linux-gnu.tar.gz"
 [[Triangle]]
 arch = "riscv64"
-git-tree-sha1 = "cb18d4c6c3f7e065d05bd156644f062fb67c7e7c"
+git-tree-sha1 = "604109632cc72980af2dbf9af3a5f9add6482806"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "a5bf4b8da54ba10f939f3ec46b8de46f28d90e2099ed4a50b473eb12a79d9714"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.riscv64-linux-gnu.tar.gz"
+    sha256 = "a2c577b3db43cf68b02e50334ec4b594c8761865d7d8f4d336b98708e2521420"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.riscv64-linux-gnu.tar.gz"
 [[Triangle]]
 arch = "x86_64"
-git-tree-sha1 = "93e5fcad4e38968c9b3206e33c844f367f112a00"
+git-tree-sha1 = "393924221478b6cfeabb60b0fa4e68abc63f3f53"
 os = "macos"
 
     [[Triangle.download]]
-    sha256 = "7811e355efa72226d52e5fcdfaf7723814d03d1bb2b4ed6784d127788ed29a4e"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "2938a4508e371b6cebd5ed20306ef15485226df69657cdfa31c9ec7f7a55910e"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.x86_64-apple-darwin.tar.gz"
 [[Triangle]]
 arch = "x86_64"
-git-tree-sha1 = "bbdb26f958211bc7df84a985c0836c9951676f54"
+git-tree-sha1 = "6f6a04b86c8ddb40556920b88607e428314cb5bd"
 libc = "glibc"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "dfb51f9a72f8cf878cddba8b3bcc6681d3d129fec2da12db091568d40c2138c5"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "cece77f28d3f9e9e767741a921da5836faafe0db2547a37c651ac59bb9bb4469"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.x86_64-linux-gnu.tar.gz"
 [[Triangle]]
 arch = "x86_64"
-git-tree-sha1 = "7541bc7c73b045950e195895e3ab507576f2cdf5"
+git-tree-sha1 = "3cfbd7ec36c632d9c6d8adad8ce316e3bb139694"
 libc = "musl"
 os = "linux"
 
     [[Triangle.download]]
-    sha256 = "6b1c9778f73563e5f34be690244d2a84f9a9fd5bdf5fc6178edf5768dffc915d"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.x86_64-linux-musl.tar.gz"
+    sha256 = "5a4aa613812c61706d90d08f44116c7b1e5027a7b6dd3110b83833024e41d9f1"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.x86_64-linux-musl.tar.gz"
 [[Triangle]]
 arch = "x86_64"
-git-tree-sha1 = "8193a292486cc7361a5d8dee8bb2f97386b938dd"
+git-tree-sha1 = "a920e35c67e3c46926f09d9d0d84459c6eb632fc"
 os = "freebsd"
 
     [[Triangle.download]]
-    sha256 = "d0013c69d99c1c852d2726f51acb86ab073cd1b1edbbd23e690a0391a62e9d71"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5adf40da26738d769f571117a1d13183cfbc8be9781e768315e7b0a66c1084eb"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.x86_64-unknown-freebsd.tar.gz"
 [[Triangle]]
 arch = "x86_64"
-git-tree-sha1 = "a317b0486dd745c7e6b63b7049bcb611061439c9"
+git-tree-sha1 = "604654949418e0e8f44a226c0e7cfaba086179e4"
 os = "windows"
 
     [[Triangle.download]]
-    sha256 = "cfc581b576f317556c98d622e36c78563061c77a35cb272562a259527c075f36"
-    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+0/Triangle.v1.6.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "e1bc1cb7c16fe7bbba2fa17280155cfaa7588fc4e880676685149067b7a46467"
+    url = "https://github.com/JuliaBinaryWrappers/Triangle_jll.jl/releases/download/Triangle-v1.6.3+1/Triangle.v1.6.3.x86_64-w64-mingw32.tar.gz"
